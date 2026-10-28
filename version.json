@@ -1,8 +1,8 @@
 {
- "versionCode": 17,
- "versionName": "1.17",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v17/imam-17.apk",
- "sha256": "5fc479f473dea0ef385562179d9acd98737a291296ae3baf1e183c18c1910667",
+ "versionCode": 18,
+ "versionName": "1.18",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v18/imam-18.apk",
+ "sha256": "57e52419b4cc9f2c8dd7d59c5cbbbe0afa10645e7bfcf32df5c9bc1e72612b8e",
  "size": 263856478,
- "notes": "الصلاة: كلمة «والله» لحالها بنص الآية ما عادت توقف المتابعة كأنها ركوع."
+ "notes": "وضع الإمام: آية متروكة قبل تأتأة صارت تطلع «فاتته» زي ما لازم."
 }
