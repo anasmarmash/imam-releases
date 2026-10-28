@@ -1,8 +1,8 @@
 {
- "versionCode": 8,
- "versionName": "1.8",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v8/imam-8.apk",
- "sha256": "b55b2fc131c3e4a34181402214ff39415472ec5acba7d4f00f3a0306e74391d7",
+ "versionCode": 9,
+ "versionName": "1.9",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v9/imam-9.apk",
+ "sha256": "12b111b1617707fdb71ba5fbf5a37c4cd7fe824882a77fde28fa5fdb0080db4c",
  "size": 263855038,
- "notes": "تصليح عاجل: على الجوالات القوية (مثل S24) كان الاستماع يعلق ولا يخضّر شي — رجع يشتغل"
+ "notes": "تصليح عاجل: الإمام البطيء رجع ينلاقي لما ينتقل لسورة أو ركعة جديدة"
 }
