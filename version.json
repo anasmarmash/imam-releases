@@ -1,8 +1,8 @@
 {
- "versionCode": 4,
- "versionName": "1.4",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v4/imam-4.apk",
- "sha256": "587c65292cf4307741b074fbdf9737703dbb3d4b8c7d3521e3c21615913bec79",
- "size": 256661164,
- "notes": "تحديث تلقائي أمتن على جوالات شاومي"
+ "versionCode": 5,
+ "versionName": "1.5",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v5/imam-5.apk",
+ "sha256": "fa932c44d0c757b208ef88bd51940d2ecf61798da055683744a315a59caabaeb",
+ "size": 263822699,
+ "notes": "متابعة أدق للصلاة الكاملة والحدر، تسميع من أي مكان بالسورة، وفهم للصوت أسرع ٣ مرات على الجوالات الحديثة"
 }
