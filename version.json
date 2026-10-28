@@ -1,8 +1,8 @@
 {
- "versionCode": 19,
- "versionName": "1.19",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v19/imam-19.apk",
- "sha256": "d39bc2141a42dac5a0be1265eb8b69170fea62f2d5e853c9f34720dcdebabf01",
+ "versionCode": 20,
+ "versionName": "1.20",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v20/imam-20.apk",
+ "sha256": "bf6d2f7304d1c4325e69d8f1a032aea1081bebc7a0737dcc8f0a419240089863",
  "size": 263856478,
- "notes": "التسميع مع ضجيج: كلمة متروكة بين كلمتين واضحات صارت تطلع حمرا، وكلام ناس حوالين القارئ ما عاد يطلّع أخطاء غلط، وتحسينات بحكم الجمل القصيرة."
+ "notes": "المسجد اللي فيه صدى: لما الصوت مش واضح ما بيطلع أحمر ولا «فاتته» غلط، وما بيقفز لآية بعيدة، والصفحة ما بتتحرّك وقت الركوع والسجود."
 }
