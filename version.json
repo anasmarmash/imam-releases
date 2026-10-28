@@ -1,8 +1,8 @@
 {
- "versionCode": 14,
- "versionName": "1.14",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v14/imam-14.apk",
- "sha256": "fcf5f3090d91578887a938909e9fafb2a87a2a3ffcd195a2092968305525bdb5",
- "size": 263855038,
- "notes": "التحديث الذاتي: كبسة «تحديث» صارت تكمّل التنصيب (من 1.12 كانت ترجع تسأل). التسميع: كلمة ملزوقة بجارتها ما بتنحسب «فاتته»، و«غير متأكد» بالرمادي."
+ "versionCode": 15,
+ "versionName": "1.15",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v15/imam-15.apk",
+ "sha256": "6e9c7bd451a090223db4a0328d5117d89e0f0c895ed3ad8fb0dc51ecdaabd08b",
+ "size": 263856478,
+ "notes": "وضع الإمام: آية انسمعت مشوّشة بالحدر ما عادت تطلع «فاتته» غلط. شاشة المصادر فيها نص حقوق تنزيل كامل، وتحسينات بالواجهة."
 }
