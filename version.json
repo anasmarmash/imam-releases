@@ -1,8 +1,8 @@
 {
- "versionCode": 15,
- "versionName": "1.15",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v15/imam-15.apk",
- "sha256": "6e9c7bd451a090223db4a0328d5117d89e0f0c895ed3ad8fb0dc51ecdaabd08b",
- "size": 263856478,
- "notes": "وضع الإمام: آية انسمعت مشوّشة بالحدر ما عادت تطلع «فاتته» غلط. شاشة المصادر فيها نص حقوق تنزيل كامل، وتحسينات بالواجهة."
+ "versionCode": 16,
+ "versionName": "1.16",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v16/imam-16.apk",
+ "sha256": "e0f3841fdffd21f65d0ba7bde0beab3f59c720611f3b40102c59fc0c41247e6a",
+ "size": 263856474,
+ "notes": "الصلاة: التكبير اللي بيعلق فيه التعرّف ما عاد ينقل لآية ثانية، والسلام ما بيقلب الصفحة، وبعد الفاتحة ما بتنفتح البقرة غلط."
 }
