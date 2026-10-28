@@ -1,8 +1,8 @@
 {
- "versionCode": 23,
- "versionName": "1.23",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v23/imam-23.apk",
- "sha256": "5614718f8e5513503d793b12d5b892d16cde0bf561e363d74873ef18487c5fa9",
- "size": 263889246,
- "notes": "السكرول صار يلحق السطر اللي بينقرأ لحاله، وإذا لمست الشاشة بيرجع يلحق بعد ٦ ثواني. وبالتسميع كمان صار المصحف يمشي مع القراءة. وفي التسميع: إذا فتحت النص (العين) بيلتغي الامتحان وما بتطلع علامة."
+ "versionCode": 24,
+ "versionName": "1.24",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v24/imam-24.apk",
+ "sha256": "5fd779374fdfb4018b28d8d734674cc56e610f143ea4e0dd8f42fb3c4740f5ec",
+ "size": 263905626,
+ "notes": "وضع الإمام مع الضجيج: لما يرجع الإمام يعيد آيات (الرحمن) بيلحقه صح، وما بيعلق على مكان غلط لما الصوت مخرّب، والصفحة ما بتتنقّل على تخمين ضعيف."
 }
