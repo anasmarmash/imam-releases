@@ -1,8 +1,8 @@
 {
- "versionCode": 9,
- "versionName": "1.9",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v9/imam-9.apk",
- "sha256": "12b111b1617707fdb71ba5fbf5a37c4cd7fe824882a77fde28fa5fdb0080db4c",
- "size": 263855038,
- "notes": "تصليح عاجل: الإمام البطيء رجع ينلاقي لما ينتقل لسورة أو ركعة جديدة"
+ "versionCode": 10,
+ "versionName": "1.10",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v10/imam-10.apk",
+ "sha256": "74112825ceadd143b76629798db7d409b5986cbedc7e06f4a246aaaa9eba3d51",
+ "size": 263855034,
+ "notes": "التسميع ما بيحمّر من حكي وضجة بالغرفة لما ما حدا عم يقرأ"
 }
