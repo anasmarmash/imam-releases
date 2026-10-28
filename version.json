@@ -1,8 +1,8 @@
 {
- "versionCode": 16,
- "versionName": "1.16",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v16/imam-16.apk",
- "sha256": "e0f3841fdffd21f65d0ba7bde0beab3f59c720611f3b40102c59fc0c41247e6a",
- "size": 263856474,
- "notes": "الصلاة: التكبير اللي بيعلق فيه التعرّف ما عاد ينقل لآية ثانية، والسلام ما بيقلب الصفحة، وبعد الفاتحة ما بتنفتح البقرة غلط."
+ "versionCode": 17,
+ "versionName": "1.17",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v17/imam-17.apk",
+ "sha256": "5fc479f473dea0ef385562179d9acd98737a291296ae3baf1e183c18c1910667",
+ "size": 263856478,
+ "notes": "الصلاة: كلمة «والله» لحالها بنص الآية ما عادت توقف المتابعة كأنها ركوع."
 }
