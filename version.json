@@ -1,8 +1,8 @@
 {
- "versionCode": 5,
- "versionName": "1.5",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v5/imam-5.apk",
- "sha256": "fa932c44d0c757b208ef88bd51940d2ecf61798da055683744a315a59caabaeb",
- "size": 263822699,
- "notes": "متابعة أدق للصلاة الكاملة والحدر، تسميع من أي مكان بالسورة، وفهم للصوت أسرع ٣ مرات على الجوالات الحديثة"
+ "versionCode": 6,
+ "versionName": "1.6",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v6/imam-6.apk",
+ "sha256": "66e00d86918488bf56b35ec00c59ec4d082b015e20e9003036d8eaf0fb5c2341",
+ "size": 263847554,
+ "notes": "الحدر: متابعة أدق وما في «فاتته» على آيات انقرأت، تسميع بيلحق القراءة السريعة والمخربطة، أخضر أسرع، والمصادر والتراخيص بالإعدادات"
 }
