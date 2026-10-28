@@ -1,8 +1,8 @@
 {
- "versionCode": 7,
- "versionName": "1.7",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v7/imam-7.apk",
- "sha256": "2edd16a816b26b0f79e5c2164fbf9a097ed19aacbede19850a09ab86a256e2ca",
+ "versionCode": 8,
+ "versionName": "1.8",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v8/imam-8.apk",
+ "sha256": "b55b2fc131c3e4a34181402214ff39415472ec5acba7d4f00f3a0306e74391d7",
  "size": 263855038,
- "notes": "تصليح عاجل: الجوالات الحديثة (مثل S24) رجعت تسمع؛ حدر بصوت مخربط بدون أحمر غلط"
+ "notes": "تصليح عاجل: على الجوالات القوية (مثل S24) كان الاستماع يعلق ولا يخضّر شي — رجع يشتغل"
 }
