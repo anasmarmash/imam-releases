@@ -1,8 +1,8 @@
 {
- "versionCode": 10,
- "versionName": "1.10",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v10/imam-10.apk",
- "sha256": "74112825ceadd143b76629798db7d409b5986cbedc7e06f4a246aaaa9eba3d51",
- "size": 263855034,
- "notes": "التسميع ما بيحمّر من حكي وضجة بالغرفة لما ما حدا عم يقرأ"
+ "versionCode": 11,
+ "versionName": "1.11",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v11/imam-11.apk",
+ "sha256": "0be05254e0f8b6547ea85bbff281e9ac723f1c1edb4ab20e47cb16a4c66a4adb",
+ "size": 263855038,
+ "notes": "الإمام بينلاقى أسرع لما تبلّش الصلاة من نص سورة بقراءة سريعة"
 }
