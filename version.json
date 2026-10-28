@@ -1,8 +1,8 @@
 {
- "versionCode": 12,
- "versionName": "1.12",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v12/imam-12.apk",
- "sha256": "56080c1805181498286f608fb921c886246b962f2fcd45bf4d863fa5141cd669",
+ "versionCode": 13,
+ "versionName": "1.13",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v13/imam-13.apk",
+ "sha256": "f559d3dcd145be6348bedcc6ef8dd04024047b4cf12a947b55e4e124c319c34f",
  "size": 263855038,
- "notes": "تصليح التحديث التلقائي: كان أحياناً يركّب نسخة قديمة"
+ "notes": "التسميع ما بيعطي النتيجة قبل آخر كلمة، وتصليح الكلمات تحت الصفحة"
 }
