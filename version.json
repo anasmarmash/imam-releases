@@ -1,8 +1,8 @@
 {
- "versionCode": 24,
- "versionName": "1.24",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v24/imam-24.apk",
- "sha256": "5fd779374fdfb4018b28d8d734674cc56e610f143ea4e0dd8f42fb3c4740f5ec",
- "size": 263905626,
- "notes": "وضع الإمام مع الضجيج: لما يرجع الإمام يعيد آيات (الرحمن) بيلحقه صح، وما بيعلق على مكان غلط لما الصوت مخرّب، والصفحة ما بتتنقّل على تخمين ضعيف."
+ "versionCode": 25,
+ "versionName": "1.25",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v25/imam-25.apk",
+ "sha256": "59f53ce34a92c1c2180a5363c09361c04cf2c83e06d31cd76f9b927ff462a1f7",
+ "size": 263905630,
+ "notes": "الصلاة: التكبير والتسميع بأشكالهم المخرّبة صاروا يوقّفوا صح بالركوع بدون أحمر. لما يرجع الإمام يعيد آيات بيلحقه صح، وما بتضل «فاتته» على آية رجع قرأها."
 }
