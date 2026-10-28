@@ -1,8 +1,8 @@
 {
- "versionCode": 6,
- "versionName": "1.6",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v6/imam-6.apk",
- "sha256": "66e00d86918488bf56b35ec00c59ec4d082b015e20e9003036d8eaf0fb5c2341",
- "size": 263847554,
- "notes": "الحدر: متابعة أدق وما في «فاتته» على آيات انقرأت، تسميع بيلحق القراءة السريعة والمخربطة، أخضر أسرع، والمصادر والتراخيص بالإعدادات"
+ "versionCode": 7,
+ "versionName": "1.7",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v7/imam-7.apk",
+ "sha256": "2edd16a816b26b0f79e5c2164fbf9a097ed19aacbede19850a09ab86a256e2ca",
+ "size": 263855038,
+ "notes": "تصليح عاجل: الجوالات الحديثة (مثل S24) رجعت تسمع؛ حدر بصوت مخربط بدون أحمر غلط"
 }
