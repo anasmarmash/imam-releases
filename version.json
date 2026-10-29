@@ -1,8 +1,8 @@
 {
- "versionCode": 31,
- "versionName": "1.31",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v31/imam-31.apk",
- "sha256": "7b0d1c08c7e00a44179f34ece139fc3a7757e011072f4d4ce7341425c2cccc4b",
+ "versionCode": 32,
+ "versionName": "1.32",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v32/imam-32.apk",
+ "sha256": "2abb282983ee12d7abb3c30c09f3a94a4805d662143bc19346962438c03c8136",
  "size": 263905549,
- "notes": "وضع الإمام: بعد ما يلاقي الإمام ما بتطلع آيات «فاتته» غلط إذا كان المكان الأول غلط. التسميع مع الضجيج: ما عاد يطلع أحمر على كلمة انقالت مرتين."
+ "notes": "وضع الإمام: آية متروكة بأول الصلاة بتطلع «فاتته» صح، وآية بلّش فيها الإمام ورجع قبل ما يخلّصها ما بتطلع «فاتته»."
 }
