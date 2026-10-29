@@ -1,8 +1,8 @@
 {
- "versionCode": 32,
- "versionName": "1.32",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v32/imam-32.apk",
- "sha256": "2abb282983ee12d7abb3c30c09f3a94a4805d662143bc19346962438c03c8136",
+ "versionCode": 33,
+ "versionName": "1.33",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v33/imam-33.apk",
+ "sha256": "c71b9d047bfbe6f8c320e51af9586e99955c0cb8119eb71a2532a2ee912f91fd",
  "size": 263905549,
- "notes": "وضع الإمام: آية متروكة بأول الصلاة بتطلع «فاتته» صح، وآية بلّش فيها الإمام ورجع قبل ما يخلّصها ما بتطلع «فاتته»."
+ "notes": "وضع الإمام مع الضجيج: لما يرجع الإمام يعيد آيات ويكمّل، ما بتطلع «فاتته» على الآية اللي كان عندها. وكلمة قصيرة ضايعة من أول الآية ما بتخليها تنحسب متروكة."
 }
