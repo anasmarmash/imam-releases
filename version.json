@@ -1,8 +1,8 @@
 {
- "versionCode": 36,
- "versionName": "1.36",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v36/imam-36.apk",
- "sha256": "932554904650263cc1fad93b7b609a6362e5b1574941860f3e38b8ec341c3138",
- "size": 263905545,
- "notes": "وضع الإمام: لما برنامج التعرّف يكرر كلمات ما إلها معنى من الضجيج، ما عاد يطلع أحمر."
+ "versionCode": 37,
+ "versionName": "1.37",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v37/imam-37.apk",
+ "sha256": "a7151a971d66439bf4ab49f64711a18c074d56b7f8b291644ab4f00563b2ddff",
+ "size": 263905549,
+ "notes": "التسميع مع الضجيج القوي: كلمات انقرأت صح ما عادت تطلع حمرا لما برنامج التعرّف يخرّبها."
 }
