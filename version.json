@@ -1,8 +1,8 @@
 {
- "versionCode": 30,
- "versionName": "1.30",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v30/imam-30.apk",
- "sha256": "754f6db7aa0aad2983b58e498e8ce492c6656299928532dc4c20b6f8c6552bac",
- "size": 263905630,
- "notes": "مع الضجيج: آية قصيرة انسمعت بغير ترتيبها ما بتطلع «فاتته»، ولا آية انقرأ أغلبها وآخرها مش واضح. «فبأي» بالرحمن لما يرجع ويكمّل ما بتطلّع «فاتته». ووهو بيدوّر على الإمام الصفحة ما بتتنقّل على تخمينات ضعيفة."
+ "versionCode": 31,
+ "versionName": "1.31",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v31/imam-31.apk",
+ "sha256": "7b0d1c08c7e00a44179f34ece139fc3a7757e011072f4d4ce7341425c2cccc4b",
+ "size": 263905549,
+ "notes": "وضع الإمام: بعد ما يلاقي الإمام ما بتطلع آيات «فاتته» غلط إذا كان المكان الأول غلط. التسميع مع الضجيج: ما عاد يطلع أحمر على كلمة انقالت مرتين."
 }
