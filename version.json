@@ -1,8 +1,8 @@
 {
- "versionCode": 35,
- "versionName": "1.35",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v35/imam-35.apk",
- "sha256": "5e1560c1aa9ca2105ed3393c8aeace9907d261d4e3e9ec01641d2aeb865ab6d4",
- "size": 263905549,
- "notes": "الصلاة مع الضجيج: لما التكبير ما ينسمع، فاتحة الركعة الجاية بتنعرف وبتنتابع بصمت بدون أحمر."
+ "versionCode": 36,
+ "versionName": "1.36",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v36/imam-36.apk",
+ "sha256": "932554904650263cc1fad93b7b609a6362e5b1574941860f3e38b8ec341c3138",
+ "size": 263905545,
+ "notes": "وضع الإمام: لما برنامج التعرّف يكرر كلمات ما إلها معنى من الضجيج، ما عاد يطلع أحمر."
 }
