@@ -1,8 +1,8 @@
 {
- "versionCode": 33,
- "versionName": "1.33",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v33/imam-33.apk",
- "sha256": "c71b9d047bfbe6f8c320e51af9586e99955c0cb8119eb71a2532a2ee912f91fd",
+ "versionCode": 34,
+ "versionName": "1.34",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v34/imam-34.apk",
+ "sha256": "e4f7b9f9bd38499e601788cc146cbbf8857977fbfa2ae67cbb3bf9382207bc0d",
  "size": 263905549,
- "notes": "وضع الإمام مع الضجيج: لما يرجع الإمام يعيد آيات ويكمّل، ما بتطلع «فاتته» على الآية اللي كان عندها. وكلمة قصيرة ضايعة من أول الآية ما بتخليها تنحسب متروكة."
+ "notes": "وضع الإمام مع الضجيج: آية انسمع أغلبها ما بتطلع «فاتته» حتى لو ضاعت كلمات بنصها."
 }
