@@ -1,8 +1,8 @@
 {
- "versionCode": 40,
- "versionName": "1.40",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v40/imam-40.apk",
- "sha256": "6be802b9cce0837a8db3a8acdcf3e00003b05c42b3412cbb81d0eea1aa004d19",
+ "versionCode": 41,
+ "versionName": "1.41",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v41/imam-41.apk",
+ "sha256": "12573b7e3a404fff9fca6a6e823dd441bbab915abd2e534d4ee03e12b3353da2",
  "size": 263905549,
- "notes": "ما في أحمر لما الإمام يكمّل على آية بعدها وآخر الآية مش واضح"
+ "notes": "لما الإمام ينط آية بعد ما يخلّص آية، ما بيرجع التطبيق لورا غلط"
 }
