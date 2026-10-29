@@ -1,8 +1,8 @@
 {
- "versionCode": 27,
- "versionName": "1.27",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v27/imam-27.apk",
- "sha256": "a0aa5bda371526867a70f3fef947592b9b9e6f824d0551ffa808a5b0870c3489",
+ "versionCode": 28,
+ "versionName": "1.28",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v28/imam-28.apk",
+ "sha256": "ac8f38f98a991518cb2644ea69510397aaddbe20ba229c139355faa22aa572c8",
  "size": 263905630,
- "notes": "مع الضجيج: لما يرجع الإمام يعيد آية بيلحقه حتى لو رجع بنص الجملة، و«فبأي» بالرحمن ما عادت تطلّع «فاتته» غلط، والكلمات المشوّشة بآخر جملة طويلة ما بتطلّع أحمر."
+ "notes": "مع الضجيج: لما التكبير ما ينسمع، الفاتحة تبع الركعة الجاية ما بتطلّع أحمر. لما يرجع الإمام لآية قرأها، «فاتته» بتنمسح عنها، حتى بالرحمن."
 }
