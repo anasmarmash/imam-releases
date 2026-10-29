@@ -1,8 +1,8 @@
 {
- "versionCode": 26,
- "versionName": "1.26",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v26/imam-26.apk",
- "sha256": "63fd392a1042dad8f2cd08a1232ccb08ddc9b55166171484018192fc0152d25e",
+ "versionCode": 27,
+ "versionName": "1.27",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v27/imam-27.apk",
+ "sha256": "a0aa5bda371526867a70f3fef947592b9b9e6f824d0551ffa808a5b0870c3489",
  "size": 263905630,
- "notes": "مع الضجيج: الفاتحة ما بتطلع فيها «فاتته» ولا أحمر، وبعدها بيلاقي السورة الصح. بالرحمن «فبأي» المكررة ما عادت ترجّعه لورا غلط. وتعليق التعرّف على جملة مكررة ما بيطلّع أحمر."
+ "notes": "مع الضجيج: لما يرجع الإمام يعيد آية بيلحقه حتى لو رجع بنص الجملة، و«فبأي» بالرحمن ما عادت تطلّع «فاتته» غلط، والكلمات المشوّشة بآخر جملة طويلة ما بتطلّع أحمر."
 }
