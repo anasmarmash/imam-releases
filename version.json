@@ -1,8 +1,8 @@
 {
- "versionCode": 34,
- "versionName": "1.34",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v34/imam-34.apk",
- "sha256": "e4f7b9f9bd38499e601788cc146cbbf8857977fbfa2ae67cbb3bf9382207bc0d",
+ "versionCode": 35,
+ "versionName": "1.35",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v35/imam-35.apk",
+ "sha256": "5e1560c1aa9ca2105ed3393c8aeace9907d261d4e3e9ec01641d2aeb865ab6d4",
  "size": 263905549,
- "notes": "وضع الإمام مع الضجيج: آية انسمع أغلبها ما بتطلع «فاتته» حتى لو ضاعت كلمات بنصها."
+ "notes": "الصلاة مع الضجيج: لما التكبير ما ينسمع، فاتحة الركعة الجاية بتنعرف وبتنتابع بصمت بدون أحمر."
 }
