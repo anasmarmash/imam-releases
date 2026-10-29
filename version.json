@@ -1,8 +1,8 @@
 {
- "versionCode": 38,
- "versionName": "1.38",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v38/imam-38.apk",
- "sha256": "342859e77d6dabc4394f0dea9fc05d9872115b38558598bfbdafc7e5e83d6d39",
+ "versionCode": 39,
+ "versionName": "1.39",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v39/imam-39.apk",
+ "sha256": "717f8a04a065206baa6893ffcd4e34f2ab118418a2e97ff26be91334413ea5f5",
  "size": 263905549,
- "notes": "آية انقرأت كلها إلا آخر كلمة ما بتنعلّم «فاتته»"
+ "notes": "التسميع رجع يعلّم الكلمات المتروكة بالأحمر لما توقف تفكّر وبعدين تكمّل"
 }
