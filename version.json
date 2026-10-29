@@ -1,8 +1,8 @@
 {
- "versionCode": 41,
- "versionName": "1.41",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v41/imam-41.apk",
- "sha256": "12573b7e3a404fff9fca6a6e823dd441bbab915abd2e534d4ee03e12b3353da2",
+ "versionCode": 42,
+ "versionName": "1.42",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v42/imam-42.apk",
+ "sha256": "ba82e0da9678b2e20b3f33d3cb2efcf62cb7facdc2237a82a9bbe87c969c54e9",
  "size": 263905549,
- "notes": "لما الإمام ينط آية بعد ما يخلّص آية، ما بيرجع التطبيق لورا غلط"
+ "notes": "بالصوت الضعيف ما بينطّ لقدّام على كلمات عامة"
 }
