@@ -1,8 +1,8 @@
 {
- "versionCode": 58,
- "versionName": "1.58-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-58/imam-online-58.apk",
- "sha256": "c59590c77b033a12587386e3f6d03fbd31285fd74328561fbd33f4338394fe29",
- "size": 182376745,
- "notes": "إمام أونلاين 1.58 — متابعة الإمام على البث المباشر (أسرع وأدق)، احتياط على الهاتف لما ينقطع النت، دقّة التسميع و«صدق الله العظيم»"
+ "versionCode": 59,
+ "versionName": "1.59-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-59/imam-online-59.apk",
+ "sha256": "4a739f83fa9f395f050d8241b05fed079d96b69fcdbdd491321259850e7dc4a3",
+ "size": 182393321,
+ "notes": "إمام أونلاين 1.59 — زر «ابعت للفريق» (الجلسة بتنرفع بس لما تكبس)، وآخر تصليحات التسميع"
 }
