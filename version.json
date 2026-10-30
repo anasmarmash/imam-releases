@@ -1,8 +1,8 @@
 {
- "versionCode": 48,
- "versionName": "1.48",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v48/imam-48.apk",
- "sha256": "cad2347b5299f8f4c569478e4dd73eb5710328eaf45cf3931760d7eebf1cd284",
+ "versionCode": 49,
+ "versionName": "1.49",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v49/imam-49.apk",
+ "sha256": "9b2ffd964e8d022911afbbfd985cfdc808eac2e7e059c9c5fc0142ad1e3cc9e4",
  "size": 263905549,
- "notes": "أحمر أقل غلط: ما بيطلع من ٣ كلمات مخربطة بجملة قصيرة"
+ "notes": "الآيات التوأم: بيعرف أي وحدة قرأ الإمام من الكلمات اللي بتفرّق بينهم"
 }
