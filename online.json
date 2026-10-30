@@ -1,8 +1,8 @@
 {
- "versionCode": 56,
- "versionName": "1.56-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-56/imam-online-56.apk",
- "sha256": "2e76d1e6bf04cb1b2c66b90379127cc32857afa3c988504538e4d47a83d107db",
- "size": 182360297,
- "notes": "إمام أونلاين 1.56 — الجملة بتتسكّر أبكر، ولا جملة بتضيع لما ينقطع النت (بتتكمّل من الهاتف)، وفيها آخر تصليحات إمام 1.53"
+ "versionCode": 57,
+ "versionName": "1.57-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-57/imam-online-57.apk",
+ "sha256": "354f4d0edc5ef5ffcbd2d6fbf76849505b2969d1c867250e15b4cff082482127",
+ "size": 264129104,
+ "notes": "إمام أونلاين 1.57 — متابعة الإمام: النتيجة فوراً من الهاتف (whisper الكبير) وGemini بيصحّحها إذا أدق"
 }
