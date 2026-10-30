@@ -1,8 +1,8 @@
 {
- "versionCode": 59,
- "versionName": "1.59-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-59/imam-online-59.apk",
- "sha256": "4a739f83fa9f395f050d8241b05fed079d96b69fcdbdd491321259850e7dc4a3",
+ "versionCode": 60,
+ "versionName": "1.60-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-60/imam-online-60.apk",
+ "sha256": "0235a36bad05342cc9d95e37d1cf4ec83bd930b1471a67be53039f6bdacb336c",
  "size": 182393321,
- "notes": "إمام أونلاين 1.59 — زر «ابعت للفريق» (الجلسة بتنرفع بس لما تكبس)، وآخر تصليحات التسميع"
+ "notes": "إمام أونلاين 1.60 — «ابعت للفريق» مع ملاحظة بالعربي صار يشتغل (أوقف الاستماع قبل الإرسال)"
 }
