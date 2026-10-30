@@ -1,8 +1,8 @@
 {
- "versionCode": 54,
- "versionName": "1.54-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-54/imam-online-54.apk",
- "sha256": "3fc58be03f6de2b427a97e58b64ba8704a026d4881fa17be8f8c4e7d1cc9a27d",
+ "versionCode": 56,
+ "versionName": "1.56-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-56/imam-online-56.apk",
+ "sha256": "2e76d1e6bf04cb1b2c66b90379127cc32857afa3c988504538e4d47a83d107db",
  "size": 182360297,
- "notes": "إمام أونلاين 1.54 — هجين: التلوين وأول بحث فوريين من الهاتف، والجمل النهائية من Gemini"
+ "notes": "إمام أونلاين 1.56 — الجملة بتتسكّر أبكر، ولا جملة بتضيع لما ينقطع النت (بتتكمّل من الهاتف)، وفيها آخر تصليحات إمام 1.53"
 }
