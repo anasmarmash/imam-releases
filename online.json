@@ -1,8 +1,8 @@
 {
- "versionCode": 62,
- "versionName": "1.62-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-62/imam-online-62.apk",
- "sha256": "248d4c133d2546562cd1eef27521f64921c92f44c50b79dd00585fab8c348fc6",
- "size": 182409705,
- "notes": "إمام أونلاين 1.62 — الجملة ما بتنطبق مرتين، وآخر تصليحات إمام 1.56"
+ "versionCode": 63,
+ "versionName": "1.63-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-63/imam-online-63.apk",
+ "sha256": "90c7b639b8f4ecdfbd8b96f8bb976d8ac9d3dd53fb29179316685f67e07ccbab",
+ "size": 183056190,
+ "notes": "إمام أونلاين 1.63 — التدقيق بعد التسميع («جاري التدقيق…» ثم شهادة أدق)، العلامة الموزونة، صُحّحت، ملخّص الصلاة"
 }
