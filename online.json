@@ -1,8 +1,8 @@
 {
- "versionCode": 63,
- "versionName": "1.63-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-63/imam-online-63.apk",
- "sha256": "90c7b639b8f4ecdfbd8b96f8bb976d8ac9d3dd53fb29179316685f67e07ccbab",
- "size": 183056190,
- "notes": "إمام أونلاين 1.63 — التدقيق بعد التسميع («جاري التدقيق…» ثم شهادة أدق)، العلامة الموزونة، صُحّحت، ملخّص الصلاة"
+ "versionCode": 64,
+ "versionName": "1.64-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-64/imam-online-64.apk",
+ "sha256": "e777adcf839c125954b8f7e70ac04846e6b8f2e35234c43f0e989702eb877510",
+ "size": 183072574,
+ "notes": "إمام أونلاين 1.64 — مبنية على إمام 1.58: التسميع من أي مكان بالسورة، شهادة لكل سورة والكاملة فوق، علامة أعدل للمقاطع القصيرة، التدقيق الموحّد"
 }
