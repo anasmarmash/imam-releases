@@ -1,8 +1,8 @@
 {
- "versionCode": 53,
- "versionName": "1.53-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-53/imam-online-53.apk",
- "sha256": "497dcb9fe29f00526a4417dc4f61ce519f2e7241eeeabc34ca6fef7f2cc37447",
- "size": 138822702,
- "notes": "إمام أونلاين 1.53 — تصليح البث: Gemini صار يسمع التلاوة كاملة (كاشف الصوت تبع الخدمة مطفي)"
+ "versionCode": 54,
+ "versionName": "1.54-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-54/imam-online-54.apk",
+ "sha256": "3fc58be03f6de2b427a97e58b64ba8704a026d4881fa17be8f8c4e7d1cc9a27d",
+ "size": 182360297,
+ "notes": "إمام أونلاين 1.54 — هجين: التلوين وأول بحث فوريين من الهاتف، والجمل النهائية من Gemini"
 }
