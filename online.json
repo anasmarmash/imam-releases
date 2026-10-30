@@ -1,8 +1,8 @@
 {
- "versionCode": 64,
- "versionName": "1.64-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-64/imam-online-64.apk",
- "sha256": "e777adcf839c125954b8f7e70ac04846e6b8f2e35234c43f0e989702eb877510",
- "size": 183072574,
- "notes": "إمام أونلاين 1.64 — مبنية على إمام 1.58: التسميع من أي مكان بالسورة، شهادة لكل سورة والكاملة فوق، علامة أعدل للمقاطع القصيرة، التدقيق الموحّد"
+ "versionCode": 65,
+ "versionName": "1.65-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-65/imam-online-65.apk",
+ "sha256": "1bb8f1e0e0557c5827cb9733f75f792b47004dc2842828c5853d1116778baf65",
+ "size": 183088958,
+ "notes": "إمام أونلاين 1.65 — تدقيق أدق (غير مؤكد بدل 100)، ▶ اسمع غلطتك، آخر كلمة ما بتضيع، الآيات المتشابهة، التردد الطويل، الجلسات الطويلة والرفع المستأنف"
 }
