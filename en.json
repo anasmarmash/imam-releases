@@ -1,8 +1,8 @@
 {
- "versionCode": 60,
- "versionName": "1.53-en60",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/en-60/imam-en-60.apk",
- "sha256": "83f545709774346ed81d4bbea5771d8037ec3dd2d9a7c3122d135a0fa1509c81",
+ "versionCode": 61,
+ "versionName": "1.53-en61",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/en-61/imam-en-61.apk",
+ "sha256": "9caa40d2172a9c763349194ad7299f3324238a8738b7217d8ad1ff392efbff96",
  "size": 264561434,
- "notes": "إمام ترجمة — نسخة تجريبية فيها الترجمة الإنجليزية (Clear Quran، طلال إيتاني) تحت الصفحة، بتمشي مع الكلمات الملوّنة"
+ "notes": "إمام ترجمة 61 — ترجمة الصفحة كلها (اسحب الشريط لفوق)، الآية كاملة بلا قص، والشريط بيلحق السكرول"
 }
