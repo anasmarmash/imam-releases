@@ -1,8 +1,8 @@
 {
- "versionCode": 55,
- "versionName": "1.55",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v55/imam-55.apk",
- "sha256": "5f3a9785d3f1b837be4eb0e2c353373ecdce97cef7628237ef92068c1be9e96d",
+ "versionCode": 56,
+ "versionName": "1.56",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v56/imam-56.apk",
+ "sha256": "295c376b674d0baf7ac19e68d63b539a2536236ab567be2a736c909b8ecc20d7",
  "size": 263935369,
- "notes": "الهواتف البطيئة: الكلمات بتتلوّن أسرع وقت القراءة (التعرّف المؤقت بيقرأ آخر 5 ثواني بس). ملخّص التسميع بيكتب إذا انتهى بـ «صدق الله العظيم». تحسينات للتسميع الأونلاين."
+ "notes": "إصلاح بالتسميع: ما عاد يطلع أحمر غلط على تلاوة صحيحة لما الجملة تنقطع بنص كلمة. لما تنهي بـ «صدق الله العظيم» قبل آخر المقطع، العلامة بتنحسب على اللي قرأته بس، والباقي بيظهر «لم تُقرأ» مش غلط."
 }
