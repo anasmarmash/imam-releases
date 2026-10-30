@@ -1,8 +1,8 @@
 {
- "versionCode": 45,
- "versionName": "1.45",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v45/imam-45.apk",
- "sha256": "f43d3434e1926e2a3291d9f88ded5641f4d1e34f0315599b0d1109cc4903fefb",
+ "versionCode": 46,
+ "versionName": "1.46",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v46/imam-46.apk",
+ "sha256": "036b27fdac478285ad0eb11d3470468b62c66946d9f7fcd8c4b65469c6fa3876",
  "size": 263905549,
- "notes": "«الله» قبل كلمات الآية الجاية ما بتنحسب تكبير ركوع"
+ "notes": "الكلمات المؤجّلة آخر الجملة بتنحسب، و«فاتته» بتبين صح على الآية اللي نطّها الإمام"
 }
