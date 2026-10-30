@@ -1,8 +1,8 @@
 {
- "versionCode": 53,
- "versionName": "1.53",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v53/imam-53.apk",
- "sha256": "28b86305eec9a154fb6eadf6cf2591729db482fb2f2c4a74de04de9ff4910b94",
+ "versionCode": 54,
+ "versionName": "1.54",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v54/imam-54.apk",
+ "sha256": "48e0ebf1187f62af709ea3ebc44d45871e4745aa4d9608787ceeed76cd8fe774",
  "size": 263935369,
- "notes": "متابعة الإمام: لما يكمل الإمام من بعد مكان الختمة بآية أو آيتين، التطبيق صار يلحقه من الآية اللي بلّش فيها بدل ما يحسبها فاتته. وتصحيح الإمام صار يحط الأحمر على الآية الصح لما آخر كلمة من الآية ما انسمعت منيح."
+ "notes": "التسميع صار أدق: الكلمة الخضرا بس اللي انسمعت فعلاً، واللي مش متأكد منها رمادي (فيه شرح للألوان). إعداد جديد «دقّة التسميع»: سهل / عادي / صارم. قل «صدق الله العظيم» بآخر التسميع وبيخلص وبيعطيك العلامة والأغلاط."
 }
