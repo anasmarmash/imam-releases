@@ -1,8 +1,8 @@
 {
- "versionCode": 49,
- "versionName": "1.49",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v49/imam-49.apk",
- "sha256": "9b2ffd964e8d022911afbbfd985cfdc808eac2e7e059c9c5fc0142ad1e3cc9e4",
- "size": 263905549,
- "notes": "الآيات التوأم: بيعرف أي وحدة قرأ الإمام من الكلمات اللي بتفرّق بينهم"
+ "versionCode": 50,
+ "versionName": "1.50",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v50/imam-50.apk",
+ "sha256": "04a1faa439ffd548ed2e331e55cf6614019eb1dab574377ce7440e0196bd7e97",
+ "size": 263910545,
+ "notes": "متابعة الإمام: آيات لازمة «فبأي آلاء ربكما تكذبان» ما عادت تطلع «فاتته» قبل ما يقرأها الإمام، الاستفتاح الطويل عند الختمة ما بيحرّك الصفحة عن مكانها، والتكرار بصوت ضعيف ما بيرجّع لمكان غلط. الواجهة: الفاصل بين الأرقام ما عاد ينقرا صفر، أسماء السور مثل المصحف (إبراهيم، الإنسان، الانفطار، الانشقاق)، والبحث عن السورة بدون همزة."
 }
