@@ -1,8 +1,8 @@
 {
- "versionCode": 61,
- "versionName": "1.61-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-61/imam-online-61.apk",
- "sha256": "095670b22967368378d7889cf142e7a015ae4b9b9876f8ccfd23151af791bb63",
- "size": 182393321,
- "notes": "إمام أونلاين 1.61 — كل جلسة بتنبعت لحالها، وقائمة «تم إرسال جلسة الساعة…» مع ملاحظة جنب كل جلسة"
+ "versionCode": 62,
+ "versionName": "1.62-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-62/imam-online-62.apk",
+ "sha256": "248d4c133d2546562cd1eef27521f64921c92f44c50b79dd00585fab8c348fc6",
+ "size": 182409705,
+ "notes": "إمام أونلاين 1.62 — الجملة ما بتنطبق مرتين، وآخر تصليحات إمام 1.56"
 }
