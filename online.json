@@ -1,8 +1,8 @@
 {
- "versionCode": 71,
- "versionName": "1.71-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-71/imam-online-71.apk",
- "sha256": "3099297287a84826c5e4cbd8dc7d5e28fd402ea7c105bf3f66c5bf0d1ea7ae91",
- "size": 183138106,
- "notes": "إمام أونلاين 1.71 — تصليحات المتتبع: ما بيخضّر آية ما انقرأت، التأتأة ما بتركّض التطبيق لقدّام، الأحمر بيضل لآخر السورة؛ قائمة الجلسات فيها السورة والآيات"
+ "versionCode": 72,
+ "versionName": "1.72-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-72/imam-online-72.apk",
+ "sha256": "e4a7d783373c6a9ca0c9d2117f0fac5470125d153df006fdafcf1feee3be414b",
+ "size": 183138110,
+ "notes": "إمام أونلاين 1.72 — الطفل صار يشوف الألوان والعلامة، وصوته بيضل على التلفون؛ جواب جديد «طفل، وأنا بصحّحله»؛ السورة بتنلقى أسرع بعد الفاتحة؛ الشهادة أسرع بعد صدق الله العظيم. ما انجرب على هاتف"
 }
