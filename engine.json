@@ -1,8 +1,8 @@
 {
- "versionCode": 1,
- "versionName": "1.59-engine1-v3t",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-1/imam-engine-1.apk",
- "sha256": "39218574cb5f0233f2f9824f5716f1496dc74349001233197b7cef26285bfa22",
- "size": 264614721,
- "notes": "إمام محرّك 1 — تجريبي: نموذج إمام الخاص v3t، بدون إنترنت"
+ "versionCode": 2,
+ "versionName": "1.59-engine2-v3t",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-2/imam-engine-2.apk",
+ "sha256": "47c0093221b8bb1b5be56ec81592ea80c0432032916c54237c6ca97943cc4826",
+ "size": 264647489,
+ "notes": "إمام محرّك 2 — تجريبي: نموذج إمام الخاص v3t، بدون إنترنت، والجلسات بتنبعت للفريق لحالها"
 }
