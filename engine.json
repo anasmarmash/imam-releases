@@ -1,8 +1,8 @@
 {
- "versionCode": 4,
- "versionName": "1.59-engine4-v3t",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-4/imam-engine-4.apk",
- "sha256": "c0100a452268dd261a9418a1d63aa79b9a76be7fb8baaaf0dc181b12924da382",
+ "versionCode": 5,
+ "versionName": "1.59-engine5-v3t",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-5/imam-engine-5.apk",
+ "sha256": "ff0b65bc49e3c66f637ce341f18e626674685ba38939318b87b037439a046deb",
  "size": 264717609,
- "notes": "إمام محرّك 4 — تجريبي، لهاتف المستخدم بس: سؤال مين بيسمّع بكل جلسة؛ سجّل أغلاطي وملاحظة صوتية مثبتين تحت الشهادة. ما انفحص: الميكروفون بصوت حقيقي و truth.json"
+ "notes": "إمام محرّك 5 — تجريبي، لهاتف المستخدم بس. ما انفحص: الميكروفون بصوت حقيقي، و truth.json، وسجّل أغلاطي لجلسات الإمام، وشاشة الشهادة"
 }
