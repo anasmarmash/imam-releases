@@ -1,8 +1,8 @@
 {
- "versionCode": 2,
- "versionName": "1.59-engine2-v3t",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-2/imam-engine-2.apk",
- "sha256": "47c0093221b8bb1b5be56ec81592ea80c0432032916c54237c6ca97943cc4826",
- "size": 264647489,
- "notes": "إمام محرّك 2 — تجريبي: نموذج إمام الخاص v3t، بدون إنترنت، والجلسات بتنبعت للفريق لحالها"
+ "versionCode": 3,
+ "versionName": "1.59-engine3-v3t",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-3/imam-engine-3.apk",
+ "sha256": "c3e7749024b749dd05d78c0647c84f552e248306d3ab5af55402af09ced44471",
+ "size": 264701225,
+ "notes": "إمام محرّك 3 — تجريبي: متتبع اليوم (غير مؤكد، صدق الله العظيم من أول مرة، يبدو إنك قرأت سورة ثانية)، وعلى الشهادة: سجّل أغلاطي، ملاحظة صوتية، موافقة التدريب"
 }
