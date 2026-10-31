@@ -1,8 +1,8 @@
 {
- "versionCode": 70,
- "versionName": "1.70-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-70/imam-online-70.apk",
- "sha256": "e7baa67e15529fffdcf9b4e26b85ef41023598fff6c8d55546769a9aee5c6203",
- "size": 183121722,
- "notes": "إمام أونلاين 1.70 — سؤال مين بيسمّع قبل متابعة الإمام كمان؛ الطفل على التلفون بس وبدون علامة؛ سجّل أغلاطي لجلسات الإمام؛ الملاحظة فوق النص"
+ "versionCode": 71,
+ "versionName": "1.71-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-71/imam-online-71.apk",
+ "sha256": "3099297287a84826c5e4cbd8dc7d5e28fd402ea7c105bf3f66c5bf0d1ea7ae91",
+ "size": 183138106,
+ "notes": "إمام أونلاين 1.71 — تصليحات المتتبع: ما بيخضّر آية ما انقرأت، التأتأة ما بتركّض التطبيق لقدّام، الأحمر بيضل لآخر السورة؛ قائمة الجلسات فيها السورة والآيات"
 }
