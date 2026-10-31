@@ -1,8 +1,8 @@
 {
- "versionCode": 69,
- "versionName": "1.69-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-69/imam-online-69.apk",
- "sha256": "bab71edc2aff2881b1eeb89755d6f4d28037bfeeb2cf36fed426446f907b257d",
- "size": 183121726,
- "notes": "إمام أونلاين 1.69 — على الشهادة: سجّل أغلاطي وملاحظة صوتية؛ سؤال مين بيسمّع قبل التسميع، والطفل ما بيروح صوته لـ Google؛ الخدمة الأونلاين لفوق 18"
+ "versionCode": 70,
+ "versionName": "1.70-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-70/imam-online-70.apk",
+ "sha256": "e7baa67e15529fffdcf9b4e26b85ef41023598fff6c8d55546769a9aee5c6203",
+ "size": 183121722,
+ "notes": "إمام أونلاين 1.70 — سؤال مين بيسمّع قبل متابعة الإمام كمان؛ الطفل على التلفون بس وبدون علامة؛ سجّل أغلاطي لجلسات الإمام؛ الملاحظة فوق النص"
 }
