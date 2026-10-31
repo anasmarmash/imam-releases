@@ -1,8 +1,8 @@
 {
- "versionCode": 3,
- "versionName": "1.59-engine3-v3t",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-3/imam-engine-3.apk",
- "sha256": "c3e7749024b749dd05d78c0647c84f552e248306d3ab5af55402af09ced44471",
- "size": 264701225,
- "notes": "إمام محرّك 3 — تجريبي: متتبع اليوم (غير مؤكد، صدق الله العظيم من أول مرة، يبدو إنك قرأت سورة ثانية)، وعلى الشهادة: سجّل أغلاطي، ملاحظة صوتية، موافقة التدريب"
+ "versionCode": 4,
+ "versionName": "1.59-engine4-v3t",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-4/imam-engine-4.apk",
+ "sha256": "c0100a452268dd261a9418a1d63aa79b9a76be7fb8baaaf0dc181b12924da382",
+ "size": 264717609,
+ "notes": "إمام محرّك 4 — تجريبي، لهاتف المستخدم بس: سؤال مين بيسمّع بكل جلسة؛ سجّل أغلاطي وملاحظة صوتية مثبتين تحت الشهادة. ما انفحص: الميكروفون بصوت حقيقي و truth.json"
 }
