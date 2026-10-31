@@ -1,8 +1,8 @@
 {
- "versionCode": 6,
- "versionName": "1.59-engine6-v6",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-6/imam-engine-6.apk",
- "sha256": "d92303a74743f259eee3e646e0de3c986e0cea765150fe5506ae41f666cbbdd7",
- "size": 264717608,
- "notes": "إمام محرّك 6 — تجريبي، لهاتف المستخدم بس. ما انفحص: السرعة والذاكرة على التلفون، بصوت حقيقي"
+ "versionCode": 7,
+ "versionName": "1.59-engine7-v7",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-7/imam-engine-7.apk",
+ "sha256": "85dbc608bb0c443323e51e7241ad94905e2daea2d206d4b3e75d7aaf7b342b52",
+ "size": 264717612,
+ "notes": "إمام محرّك 7 — ما عدّى البوابة لسا؛ تجريبي، لهاتف المستخدم بس"
 }
