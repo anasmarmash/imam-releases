@@ -1,8 +1,8 @@
 {
- "versionCode": 5,
- "versionName": "1.59-engine5-v3t",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-5/imam-engine-5.apk",
- "sha256": "ff0b65bc49e3c66f637ce341f18e626674685ba38939318b87b037439a046deb",
- "size": 264717609,
- "notes": "إمام محرّك 5 — تجريبي، لهاتف المستخدم بس. ما انفحص: الميكروفون بصوت حقيقي، و truth.json، وسجّل أغلاطي لجلسات الإمام، وشاشة الشهادة"
+ "versionCode": 6,
+ "versionName": "1.59-engine6-v6",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-6/imam-engine-6.apk",
+ "sha256": "d92303a74743f259eee3e646e0de3c986e0cea765150fe5506ae41f666cbbdd7",
+ "size": 264717608,
+ "notes": "إمام محرّك 6 — تجريبي، لهاتف المستخدم بس. ما انفحص: السرعة والذاكرة على التلفون، بصوت حقيقي"
 }
