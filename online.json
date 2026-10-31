@@ -1,8 +1,8 @@
 {
- "versionCode": 72,
- "versionName": "1.72-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-72/imam-online-72.apk",
- "sha256": "e4a7d783373c6a9ca0c9d2117f0fac5470125d153df006fdafcf1feee3be414b",
+ "versionCode": 73,
+ "versionName": "1.73-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-73/imam-online-73.apk",
+ "sha256": "a8b214cc16196af8b74ed5d07434827fff8379e6b2c0577675b30af5475c4ede",
  "size": 183138110,
- "notes": "إمام أونلاين 1.72 — سماع الطفل (جواب «طفل» أو بلا جواب) بيتفحّص على الهاتف وما بيروح لـ Gemini؛ جلسات الطفل بتنبعت لصندوق الفريق بس بموافقة وليّ الأمر، وبدونها بتضل على الهاتف. الطفل صار يشوف الألوان والعلامة؛ جواب جديد «طفل، وأنا بصحّحله»؛ السورة بتنلقى أسرع بعد الفاتحة؛ الشهادة أسرع بعد صدق الله العظيم. ما انجرب على هاتف"
+ "notes": "إمام أونلاين 1.73 — تصحيح النصوص عن وين بيروح صوت الطفل؛ الأسئلة وحوار وليّ الأمر بينزلوا مع الخط الكبير؛ ترجمة إنجليزية لقسم الخدمات الأونلاين. ما انجرب على هاتف"
 }
