@@ -1,8 +1,8 @@
 {
- "versionCode": 7,
- "versionName": "1.59-engine7-v7",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-7/imam-engine-7.apk",
- "sha256": "85dbc608bb0c443323e51e7241ad94905e2daea2d206d4b3e75d7aaf7b342b52",
- "size": 264717612,
- "notes": "إمام محرّك 7 — ما عدّى البوابة لسا؛ تجريبي، لهاتف المستخدم بس"
+ "versionCode": 8,
+ "versionName": "1.59-engine8-v6",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-8/imam-engine-8.apk",
+ "sha256": "c5ce7dcfb003a72af2f9adc1ecd3bfb6a5bfc9d4f468eb9a28aeb426b70bf2bc",
+ "size": 264717608,
+ "notes": "إمام محرّك 8 — v6 ما عدّى البوابة؛ تجريبي، لهاتف المستخدم بس. ما انفحص على جهاز: الشاشة، والميكروفون بصوت حقيقي، و truth.json، والجواب الثالث"
 }
