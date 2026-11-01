@@ -1,8 +1,8 @@
 {
- "versionCode": 8,
- "versionName": "1.59-engine8-v6",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-8/imam-engine-8.apk",
- "sha256": "c5ce7dcfb003a72af2f9adc1ecd3bfb6a5bfc9d4f468eb9a28aeb426b70bf2bc",
- "size": 264717608,
- "notes": "إمام محرّك 8 — v6 ما عدّى البوابة؛ تجريبي، لهاتف المستخدم بس. ما انفحص على جهاز: الشاشة، والميكروفون بصوت حقيقي، و truth.json، والجواب الثالث"
+ "versionCode": 9,
+ "versionName": "1.59-engine9-v9",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-9/imam-engine-9.apk",
+ "sha256": "0db36bc6c19a20b3bfd5473d8207419522c57a5a5564dce7f83bc5282a5f3cd6",
+ "size": 264733992,
+ "notes": "v9 سقط ببوابة الإصدار بشرط القرّاء، وهو للقناة التجريبية بس. مقاطع التكرار أقل من v6. كتب المصحف بدل الغلطة 18/249 مقابل 13/249 لـv6 بهاد الفحص الواحد، يعني أكتر. ما انفحص: الميكروفون بصوت حقيقي، و`truth.json`، وشاشة هاد البناء."
 }
