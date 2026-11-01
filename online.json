@@ -1,8 +1,8 @@
 {
- "versionCode": 76,
- "versionName": "1.76-online",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-76/imam-online-76.apk",
- "sha256": "8a6003d48e3f1b7c2d8179b7ec269ffd9810413df2a3174d4eae37832e970ee9",
- "size": 183138110,
- "notes": "\"سجّل أغلاطي\" صار بأزرار فوق ألوان الجلسة: حكيتها، نسيتها، غلطت بلفظها، تردّدت. اختار زر واضغط الكلمات، وضغطة ثانية بتشيل العلامة. مع \"غلطت بلفظها\" بتقدر تكتب شو قلت، وهاد اختياري. ألوان التسميع بتتحفظ من هاي النسخة وطالع، وبجلسات الإمام الأحمر على الآية كلها مش على الكلمة. ما انجرب على هاتف."
+ "versionCode": 77,
+ "versionName": "1.77-online",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/online-77/imam-online-77.apk",
+ "sha256": "65e9019ee3c3ca0fdcc3663ad76d8944cc3caff2acc2184720e79acdecf15d8d",
+ "size": 183138042,
+ "notes": "الشهادة: لما تعلّم أغلاطك بتطلع علامتك تحت علامة التطبيق. وإذا فتحت النص أثناء التسميع بتاخد علامة مع ملاحظة إنك شفته."
 }
