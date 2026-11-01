@@ -1,8 +1,8 @@
 {
- "versionCode": 9,
- "versionName": "1.59-engine9-v9",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-9/imam-engine-9.apk",
- "sha256": "0db36bc6c19a20b3bfd5473d8207419522c57a5a5564dce7f83bc5282a5f3cd6",
+ "versionCode": 10,
+ "versionName": "1.59-engine10-v9",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-10/imam-engine-10.apk",
+ "sha256": "bf96a49ade526f5c85286f5de75e9052198e73886fafe6d28d34f33fd98d1bba",
  "size": 264733992,
- "notes": "v9 سقط ببوابة الإصدار بشرط القرّاء، وهو للقناة التجريبية بس. مقاطع التكرار أقل من v6. كتب المصحف بدل الغلطة 18/249 مقابل 13/249 لـv6 بهاد الفحص الواحد، يعني أكتر. ما انفحص: الميكروفون بصوت حقيقي، و`truth.json`، وشاشة هاد البناء."
+ "notes": "بيصلّح توقف إرسال الجلسات بـengine-9 (بانتظار دورها). v9 سقط ببوابة الإصدار بشرط القرّاء؛ تجريبي فقط. ما انفحص على جهاز: الإرسال الفعلي، والميكروفون بصوت حقيقي، و`truth.json`."
 }
