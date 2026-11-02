@@ -1,8 +1,8 @@
 {
- "versionCode": 10,
- "versionName": "1.59-engine10-v9",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-10/imam-engine-10.apk",
- "sha256": "bf96a49ade526f5c85286f5de75e9052198e73886fafe6d28d34f33fd98d1bba",
- "size": 264733992,
- "notes": "بيصلّح توقف إرسال الجلسات بـengine-9 (بانتظار دورها). v9 سقط ببوابة الإصدار بشرط القرّاء؛ تجريبي فقط. ما انفحص على جهاز: الإرسال الفعلي، والميكروفون بصوت حقيقي، و`truth.json`."
+ "versionCode": 30,
+ "versionName": "1.59-engine30-v12",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/engine-30/imam-engine-30.apk",
+ "sha256": "36a37345d6a63120b791f490bc56182c434e80e06c48c18d4d009f4eebccb44d",
+ "size": 268233792,
+ "notes": "الموديل v12 (جلسات المستخدم بالتدريب). الفحص الثاني بالخلفية، أزرار الأخطاء أثناء القراءة، كتابة رقم الآية والصفحة. على 17 جلسة فحص: الرمادي على الصحيح 40 ← 24، والأحمر على الأخطاء 25 ← 29 من 44."
 }
