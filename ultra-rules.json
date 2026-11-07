@@ -1,5 +1,5 @@
 {
- "v": 1,
+ "v": 2,
  "note": "YellowRule.DEFAULT of master 32a47b2f (imam-yellow round 3) — raise v by 1 with every change, then bash tools/ultra/publish-rules.sh",
  "yellow": {
   "partials": false,
@@ -17,7 +17,7 @@
   "noHeardElsewhere": false,
   "oneWordOnly": false,
   "maxLen": 4,
-  "redAt": 3,
+  "redAt": 4,
   "redRuns": 2,
   "leadOk": true,
   "leadPrevEnd": 1,
