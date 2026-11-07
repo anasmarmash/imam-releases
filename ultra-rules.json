@@ -1,0 +1,30 @@
+{
+ "v": 1,
+ "note": "YellowRule.DEFAULT of master 32a47b2f (imam-yellow round 3) — raise v by 1 with every change, then bash tools/ultra/publish-rules.sh",
+ "yellow": {
+  "partials": false,
+  "minClarity": 0.8,
+  "minExact": 0,
+  "minN": 0,
+  "edges": 1,
+  "noGlue": true,
+  "noFaced": true,
+  "noExtra": false,
+  "noParticles": true,
+  "noBoundary": false,
+  "noLetters": false,
+  "noLead": true,
+  "noHeardElsewhere": false,
+  "oneWordOnly": false,
+  "maxLen": 4,
+  "redAt": 3,
+  "redRuns": 2,
+  "leadOk": true,
+  "leadPrevEnd": 1,
+  "leadAfter": 2,
+  "leadStandIn": true,
+  "headMax": 4,
+  "leadCut": true,
+  "leadLoneEnd": true
+ }
+}
