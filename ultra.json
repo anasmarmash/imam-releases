@@ -3,7 +3,8 @@
  "versionName": "1.59-ultra107",
  "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F91d412860c7959fb1112f916790ba344%2Fimam-ultra-107.apk?alt=media&token=c4260646-292d-4750-b44b-1b2b797b833d",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-107/imam-ultra-107.apk"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-107/imam-ultra-107.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/725114950"
  ],
  "sha256": "91d412860c7959fb1112f916790ba344ae299ecd05ce11f32e4f7216ccfcf09a",
  "size": 479529823,
