@@ -1,12 +1,12 @@
 {
- "versionCode": 104,
- "versionName": "1.59-ultra104",
- "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F337b3a42a058c0fb6225d47542edeafc%2Fimam-tajriba-ultra104.apk?alt=media&token=e110c281-78e2-457d-ac2e-98b1155a67d0",
+ "versionCode": 105,
+ "versionName": "1.59-ultra105",
+ "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F5da3160052076f576fc2e01cd81686fe%2Fimam-ultra-105.apk?alt=media&token=84eff289-d1de-421b-adb7-d9007928abb0",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-104/imam-ultra-104.apk",
-  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/723627404"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-105/imam-ultra-105.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/724828213"
  ],
- "sha256": "337b3a42a058c0fb6225d47542edeafcb15073e1effd073d39f003030c224b01",
- "size": 434559606,
- "notes": "محتوى 1.69: بطاقة الكلمة الرمادية وسببها، و«شهادتي أنا» بجانب «شهادة التطبيق»، والعلامة في المستويات الثلاثة (الرمادية نصف خطأ في الصارم فقط)، والسورة غير المكتملة بعد «صدق الله العظيم» لا تُحسب أخطاء، وكلمات رمادية أقل، والتطبيق كله بالفصحى؛ وتمارين التسجيل."
+ "sha256": "5da3160052076f576fc2e01cd81686fe609d9c6f9eecbca3450956a8ae42cd57",
+ "size": 479464287,
+ "notes": "إمام 1.70: واجهة جديدة بأربع خانات وصفحة لكل تسميع، «كيف تُلفظ» بصوت الحصري، ملاحظات التجويد (تجريبي)، زر «إيقاف» يحفظ ما قرأته، الشهادة فورًا ويكتمل تدقيقها بالخلفية، وتمارين التسجيل."
 }
