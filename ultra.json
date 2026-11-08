@@ -1,8 +1,8 @@
 {
- "versionCode": 101,
- "versionName": "1.59-ultra101",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/ultra-101/imam-ultra-101.apk",
- "sha256": "e5178090b56758bb0edfee1e1e4f70db3de300329e71dea8968e4576cc0fe2b4",
- "size": 434440051,
- "notes": "إمام تجربة 101 — تجربة القناة: نفس 100 (فحص إنه التحديث بيوصل لحاله)"
+ "versionCode": 104,
+ "versionName": "1.59-ultra104",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/ultra-104/imam-ultra-104.apk",
+ "sha256": "337b3a42a058c0fb6225d47542edeafcb15073e1effd073d39f003030c224b01",
+ "size": 434559606,
+ "notes": "محتوى 1.69: بطاقة الكلمة الرمادية وسببها، و«شهادتي أنا» بجانب «شهادة التطبيق»، والعلامة في المستويات الثلاثة (الرمادية نصف خطأ في الصارم فقط)، والسورة غير المكتملة بعد «صدق الله العظيم» لا تُحسب أخطاء، وكلمات رمادية أقل، والتطبيق كله بالفصحى؛ وتمارين التسجيل."
 }
