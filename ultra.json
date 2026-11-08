@@ -3,7 +3,8 @@
  "versionName": "1.59-ultra106",
  "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F252d0ee687c7a12f3973540c01f7f473%2Fimam-ultra-106.apk?alt=media&token=b7d051f7-3ae1-4a83-9cdb-5343f5a9d034",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-106/imam-ultra-106.apk"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-106/imam-ultra-106.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/724907873"
  ],
  "sha256": "252d0ee687c7a12f3973540c01f7f473f015cbb790c6aaf3701d6b837e4e109b",
  "size": 479529823,
