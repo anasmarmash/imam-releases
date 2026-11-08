@@ -1,7 +1,11 @@
 {
  "versionCode": 104,
  "versionName": "1.59-ultra104",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/ultra-104/imam-ultra-104.apk",
+ "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F337b3a42a058c0fb6225d47542edeafc%2Fimam-tajriba-ultra104.apk?alt=media&token=e110c281-78e2-457d-ac2e-98b1155a67d0",
+ "mirrors": [
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-104/imam-ultra-104.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/723627404"
+ ],
  "sha256": "337b3a42a058c0fb6225d47542edeafcb15073e1effd073d39f003030c224b01",
  "size": 434559606,
  "notes": "محتوى 1.69: بطاقة الكلمة الرمادية وسببها، و«شهادتي أنا» بجانب «شهادة التطبيق»، والعلامة في المستويات الثلاثة (الرمادية نصف خطأ في الصارم فقط)، والسورة غير المكتملة بعد «صدق الله العظيم» لا تُحسب أخطاء، وكلمات رمادية أقل، والتطبيق كله بالفصحى؛ وتمارين التسجيل."
