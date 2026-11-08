@@ -1,6 +1,6 @@
 {
- "v": 4,
- "note": "v4 2026-11-08: yellow OFF (the user: «رجعوه متل أول» — red/yellow confused, a long ayah went whole-red). v3 = the full round-3 rule; to restore: on true / remove on, v+1",
+ "v": 5,
+ "note": "v5 2026-11-08 «فحص الليل»: yellow ON again like Play 1.68 — ultra 101/102 do not know redShare / maxWps yet, so redAt 0 here (yellow only, never a whole ayah red from yellow). With an ultra build that has them (≥ the 1.68 code): redAt 3 + redShare 0.5 + maxWps 2.0 = Play. Raise v with every change, then bash tools/ultra/publish-rules.sh",
  "yellow": {
   "partials": false,
   "minClarity": 0.8,
@@ -17,7 +17,7 @@
   "noHeardElsewhere": false,
   "oneWordOnly": false,
   "maxLen": 4,
-  "redAt": 3,
+  "redAt": 0,
   "redRuns": 2,
   "leadOk": true,
   "leadPrevEnd": 1,
@@ -26,6 +26,7 @@
   "headMax": 4,
   "leadCut": true,
   "leadLoneEnd": true,
-  "on": false
+  "redShare": 0.5,
+  "maxWps": 2
  }
 }
