@@ -1,12 +1,11 @@
 {
- "versionCode": 106,
- "versionName": "1.59-ultra106",
- "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F252d0ee687c7a12f3973540c01f7f473%2Fimam-ultra-106.apk?alt=media&token=b7d051f7-3ae1-4a83-9cdb-5343f5a9d034",
+ "versionCode": 107,
+ "versionName": "1.59-ultra107",
+ "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F91d412860c7959fb1112f916790ba344%2Fimam-ultra-107.apk?alt=media&token=c4260646-292d-4750-b44b-1b2b797b833d",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-106/imam-ultra-106.apk",
-  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/724907873"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-107/imam-ultra-107.apk"
  ],
- "sha256": "252d0ee687c7a12f3973540c01f7f473f015cbb790c6aaf3701d6b837e4e109b",
+ "sha256": "91d412860c7959fb1112f916790ba344ae299ecd05ce11f32e4f7216ccfcf09a",
  "size": 479529823,
- "notes": "زر «اعرض على التلفاز» بوضع الإمام (يعرض الصفحة على تطبيق «إمام للتلفاز» على الشبكة المحلية) + حماية حَكَم التلفون على الأجهزة الضعيفة"
+ "notes": "التلفاز: التسميع يظهر على التلفاز كما على الهاتف تمامًا (العين، الكلمات المخفية، الشهادة) + ألوان التلفاز مثل الهاتف"
 }
