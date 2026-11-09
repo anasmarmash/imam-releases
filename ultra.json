@@ -1,12 +1,12 @@
 {
- "versionCode": 108,
- "versionName": "1.59-ultra108",
- "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2Fe52a4be0b3ec8eaefa6bfc65767f4c53%2Fimam-ultra-108.apk?alt=media&token=08a6ba65-1748-4b8b-bfaf-34268e204959",
+ "versionCode": 109,
+ "versionName": "1.59-ultra109",
+ "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F4f66c598f810b9992f8caf69ec9396d5%2Fimam-ultra-109.apk?alt=media&token=ac6b001f-10be-4101-9cc0-a67639995a31",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-108/imam-ultra-108.apk",
-  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/726247578"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-109/imam-ultra-109.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/727131365"
  ],
- "sha256": "e52a4be0b3ec8eaefa6bfc65767f4c5315538e113a784462bb305e9a582f8fbe",
- "size": 479644654,
- "notes": "1.71: أذن ew1 بدل wq1 + النظرة التانية للجمل الشبيهة، آخر كلمات التسميع، تصليحات الواجهة الـ13، عيّنة الرفع، نافذة التحديث (مطفية)"
+ "sha256": "4f66c598f810b9992f8caf69ec9396d54bc7fe6fde71896bb7b1958f9d484965",
+ "size": 479867386,
+ "notes": "«عبر المتصفح»: اعرض المصحف على متصفح أي تلفاز (سامسونج، LG، حاسوب) من imam-mushaf.web.app/tv بتصوير الرمز أو كتابته"
 }
