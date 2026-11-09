@@ -1,12 +1,12 @@
 {
- "versionCode": 107,
- "versionName": "1.59-ultra107",
- "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2F91d412860c7959fb1112f916790ba344%2Fimam-ultra-107.apk?alt=media&token=c4260646-292d-4750-b44b-1b2b797b833d",
+ "versionCode": 108,
+ "versionName": "1.59-ultra108",
+ "url": "https://firebasestorage.googleapis.com/v0/b/imam-mushaf.firebasestorage.app/o/builds%2Fe52a4be0b3ec8eaefa6bfc65767f4c53%2Fimam-ultra-108.apk?alt=media&token=08a6ba65-1748-4b8b-bfaf-34268e204959",
  "mirrors": [
-  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-107/imam-ultra-107.apk",
-  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/725114950"
+  "https://github.com/anasmarmash/imam-releases/releases/download/ultra-108/imam-ultra-108.apk",
+  "https://api.github.com/repos/anasmarmash/imam-releases/releases/assets/726247578"
  ],
- "sha256": "91d412860c7959fb1112f916790ba344ae299ecd05ce11f32e4f7216ccfcf09a",
- "size": 479529823,
- "notes": "التلفاز: التسميع يظهر على التلفاز كما على الهاتف تمامًا (العين، الكلمات المخفية، الشهادة) + ألوان التلفاز مثل الهاتف"
+ "sha256": "e52a4be0b3ec8eaefa6bfc65767f4c5315538e113a784462bb305e9a582f8fbe",
+ "size": 479644654,
+ "notes": "1.71: أذن ew1 بدل wq1 + النظرة التانية للجمل الشبيهة، آخر كلمات التسميع، تصليحات الواجهة الـ13، عيّنة الرفع، نافذة التحديث (مطفية)"
 }
