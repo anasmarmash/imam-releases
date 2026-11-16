@@ -1,8 +1,8 @@
 {
- "versionCode": 80,
- "versionName": "1.79",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v80/imam-80.apk",
- "sha256": "4a541a736bb3d5ccfe7834a7ce839e4bb759157b43cfd929d26b2d1d6e3de389",
- "size": 496383184,
- "notes": "تفحص مواضع تجويد أكثر، ومنها همزة القطع، وتحسّن توقيت الكلمات عند الاستماع."
+ "versionCode": 81,
+ "versionName": "1.80",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v81/imam-81.apk",
+ "sha256": "1f12a03249b1c7197665f39845d3016bc29ac2efbfc08961e743d7f6cd91ed58",
+ "size": 496415952,
+ "notes": "جديد: زر «أعِدْها بتمهّل» للتدرّب على الكلمة بعد التسميع (الشهادة لا تتغيّر)، وسم «نُظِر في المصحف»، «استمع لقراءتك» لكل كلمة للمراجعة، وإصلاح ملاحظة إدغام خاطئة."
 }
