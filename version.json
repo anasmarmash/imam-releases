@@ -1,8 +1,8 @@
 {
- "versionCode": 82,
- "versionName": "1.81",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v82/imam-82.apk",
- "sha256": "c5ffb146a09c29785aee62ce83658e9991645111429515c832bee99844983a32",
+ "versionCode": 83,
+ "versionName": "1.82",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v83/imam-83.apk",
+ "sha256": "bb211706f30847f8c3cf3be5228578b65a9068f84c8221d3c73526f2f7227ce4",
  "size": 496421592,
- "notes": "جديد: تدقيق التسميع أسرع على الهواتف الأخفّ والنتيجة نفسها، وملاحظتان جديدتان للمراجعة في التجويد: همزة القطع، وتفخيم الراء وترقيقها."
+ "notes": "إمام 1.82: إرسال التسجيلات أوثق (يبدأ بمعلومات الجلسة ويكمل من حيث توقّف)، ورسالة واضحة مع زر الإعدادات إذا رُفض إذن الميكروفون، وشاشة الموافقة تُظهر زرّيها دائمًا."
 }
