@@ -1,8 +1,8 @@
 {
- "versionCode": 83,
- "versionName": "1.82",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v83/imam-83.apk",
- "sha256": "bb211706f30847f8c3cf3be5228578b65a9068f84c8221d3c73526f2f7227ce4",
- "size": 496421592,
- "notes": "إمام 1.82: إرسال التسجيلات أوثق (يبدأ بمعلومات الجلسة ويكمل من حيث توقّف)، ورسالة واضحة مع زر الإعدادات إذا رُفض إذن الميكروفون، وشاشة الموافقة تُظهر زرّيها دائمًا."
+ "versionCode": 85,
+ "versionName": "1.84",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v85/imam-85.apk",
+ "sha256": "45903490c48d1473f2d4d504f139ddd57c5f8f09d20798cb64027a0fd4559978",
+ "size": 496421489,
+ "notes": "الإصدار 1.84: إصلاح توقّف المصحف عند فتح بعض الصفحات، وكشف كلمة قيلت مكان أخرى في المقاطع القصيرة، والشهادة تبقى ظاهرة، وتنبيه «حدِّث الآن» عند الفتح."
 }
