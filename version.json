@@ -1,8 +1,8 @@
 {
- "versionCode": 85,
- "versionName": "1.84",
- "url": "https://github.com/anasmarmash/imam-releases/releases/download/v85/imam-85.apk",
- "sha256": "45903490c48d1473f2d4d504f139ddd57c5f8f09d20798cb64027a0fd4559978",
- "size": 496421489,
- "notes": "الإصدار 1.84: إصلاح توقّف المصحف عند فتح بعض الصفحات، وكشف كلمة قيلت مكان أخرى في المقاطع القصيرة، والشهادة تبقى ظاهرة، وتنبيه «حدِّث الآن» عند الفتح."
+ "versionCode": 86,
+ "versionName": "1.85",
+ "url": "https://github.com/anasmarmash/imam-releases/releases/download/v86/imam-86.apk",
+ "sha256": "661e25b6582db4756295e2d0866e95dda1735d2ea51f40b69827d1de9ba663c8",
+ "size": 496437873,
+ "notes": "تحسينات في التسميع: كشف قول كلمة قرآنية مكان أخرى قريبة منها بشاهد ثانٍ يستمع إلى حروف الكلمة، وإذا ضغطتَ «تجاوز» ثم قرأتَ الكلمة مباشرةً تظهر تلميحًا مع سببه بدل أن تُحسب خطأً."
 }
